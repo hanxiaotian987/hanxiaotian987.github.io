@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hanxiaotian987.github.io/"/>
-  <updated>2017-09-28T03:12:57.915Z</updated>
+  <updated>2017-10-09T07:46:01.586Z</updated>
   <id>https://hanxiaotian987.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript入门学习书籍的阶段选择</title>
+    <link href="https://hanxiaotian987.github.io/2017/10/09/JavaScript%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%B1%8D%E7%9A%84%E9%98%B6%E6%AE%B5%E9%80%89%E6%8B%A9/"/>
+    <id>https://hanxiaotian987.github.io/2017/10/09/JavaScript入门学习书籍的阶段选择/</id>
+    <published>2017-10-09T07:37:00.000Z</published>
+    <updated>2017-10-09T07:46:01.586Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;入门推荐首选书籍：《JavaScript DOM 编程艺术 》&lt;br&gt;书内容简单，易学，上手快，编程思想严谨。好的入门书，对你未来的编程都会有着深远的影响。此本书不辜负这个历史使命。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;基础学习书籍：《JavaScript
+        
+      
+    
+    </summary>
+    
+      <category term="学习指导" scheme="https://hanxiaotian987.github.io/categories/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC/"/>
+    
+    
+      <category term="JavaScript" scheme="https://hanxiaotian987.github.io/tags/JavaScript/"/>
+    
+      <category term="Web前端" scheme="https://hanxiaotian987.github.io/tags/Web%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>程序员的职业发展路线</title>
